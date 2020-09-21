@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattcosta617/shopBack.git"
+  },
+  "author": "Matt Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcosta617/shopBack/issues"
+  },
+  "homepage": "https://github.com/mattcosta617/shopBack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
+}
